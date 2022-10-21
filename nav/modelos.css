@@ -1,0 +1,157 @@
+@charset "utf-8";
+/* CSS Document */
+
+#tesla{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    margin: 20px;
+    padding: 20px;
+}
+
+
+body {
+
+    background-color: #363636;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 40px;
+    color: white;
+    margin: 0 auto;
+}
+
+
+#nav1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0px; 
+    font-size: 30px;
+    margin: 10px;
+    color: rgb(77, 77, 77);
+
+}
+#nav2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0px; 
+    font-size: 30px;
+    margin: 10px;
+    color: rgb(77, 77, 77);
+
+}
+#nav3{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0px; 
+    font-size: 30px;
+    margin: 10px;
+    color: white;
+
+}
+
+#li1 {   
+    background-color: ;
+    list-style: none;
+    margin: 10px;
+}
+#li2 {   
+    background-color: ;
+    list-style: none;
+    margin: 10px;
+}
+#li3 {   
+    background-color: ;
+    list-style: ;
+    margin: 10px;
+}
+
+
+.ini{
+    background-color: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+    
+}
+
+
+div{
+    background-color: #1C1C1C;
+    padding: 20px;
+}
+
+.titulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-bottom: solid 3px;
+    padding: 10px 0px; 
+    font-size: 35px;
+    margin: 20px;
+}
+.subtitulo{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0px; 
+    margin: 20px;
+}
+#titulo1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 10px 0px; 
+    font-size: 35px;
+    margin: 20px;
+}
+
+#tudo{
+    background-color: #363636;
+    border: solid 1px;
+}
+
+.fotos{
+    background-color: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-size: 15px;
+    margin: 20px;
+    padding: 0px;
+    box-shadow: 0px 0px 20px;
+}
+
+#data{
+    background-color: ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    font-size: 20px;
+    margin: 20px;
+    
+}
+
+.footer2{
+    background-color: ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: gray;
+    font-size: 20px;
+    margin: 20px;
+
+}
+
+.tit{
+    background-color: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 25;
+    margin: 20px;
+    padding: 20px;
+
+
+}
+aside{
+    background-color: ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-size: 18px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 0px 0px 10px;
+}
+
+
+
+
+
+
+
